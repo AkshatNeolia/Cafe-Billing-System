@@ -1,2 +1,3 @@
 # Cafe_Billing_System
-Cafe Billing System  .....  C++ Project 
+Cafe Billing System 
+C++ Project 
