@@ -1,11 +1,11 @@
 # Cafe Billing System
 
-## 📌 Project Description
+## Project Description
 The **Cafe Billing System** is a simple C++ console-based application that allows users to order food items from a menu, calculate the total bill including GST, and display a detailed bill receipt. This project demonstrates the use of **C++ Standard Template Library (STL)**, particularly **maps**, to store menu items and their prices efficiently.
 
 ---
 
-## 🛠 Features
+## Features
 - Display a **menu** with food item names and their respective numbers.
 - Accept **user input** for food selection and quantity.
 - Calculate the **total bill** including **18% GST**.
@@ -14,14 +14,14 @@ The **Cafe Billing System** is a simple C++ console-based application that allow
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - **C++**
 - **Standard Template Library (STL)** (Maps)
 - **Basic Console Input/Output**
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 ### 🔹 Prerequisites
 - A **C++ compiler** like GCC, Clang, or MSVC.
 
@@ -42,7 +42,7 @@ The **Cafe Billing System** is a simple C++ console-based application that allow
 
 ---
 
-## 📜 Example Output
+## Example Output
 ```
 WELCOME TO BREW BOX CAFE!!!
 
@@ -75,33 +75,12 @@ Rs.300                      Rs.54                           Rs.354
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Cafe-Billing-System/
 │── cafe_billing.cpp  # Main C++ source code
 │── README.md         # Project documentation
 ```
-
----
-
-## 🏆 Future Enhancements
-- **Add multiple items to the order** instead of just one at a time.
-- **Improve UI** with better formatting.
-- **Integrate a database** for order history.
-- **Develop a GUI version** using Qt or GTK.
-
----
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🤝 Contributing
-Feel free to contribute by **forking** the repository, making modifications, and submitting a **pull request**.
-
----
-
 ## 📧 Contact
 For any queries, contact:
 - **Your Name** - your.email@example.com
