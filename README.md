@@ -81,9 +81,3 @@ Cafe-Billing-System/
 │── cafe_billing.cpp  # Main C++ source code
 │── README.md         # Project documentation
 ```
-## 📧 Contact
-For any queries, contact:
-- **Your Name** - your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
-
-Happy Coding! 😊
